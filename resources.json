@@ -1,1 +1,1026 @@
-[{"id":"00140f76-7c75-4b08-859a-dd57526d54dc","sid":"_4RNJ77F","hash":"840ec412616e638e596be063fee7999d7a0e3bda989500f4c35d2fb10a043ed6","url":"","key":"projects/ir-starter-assets/assets/textures/blackrock-albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"0cf53944-5f26-4472-99b4-f6c75bfa0591","sid":"kDMnbT0e","hash":"28522513589fc55cf0c05c0a53a71594c64d0b31c510a4274fc5a71f9464983e","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_medium2.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:22.000Z","updatedAt":"2024-05-30T23:56:22.000Z"},{"id":"0eb15f9b-67dd-4598-9cf5-1ee40416fc92","sid":"f0srqkhZ","hash":"2e87788e4f917935f8c3198b2557ea82f4eb732705d9413e14b1a72eb29968aa","url":"","key":"projects/ir-starter-assets/assets/textures/wispy-grass-meadow_ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"0f03630a-1a18-4f54-a840-033345d575f4","sid":"R57TloTp","hash":"2da235dadf6759ba6527b5b12710877e326ee60186523182fb5a86b811a15ba3","url":"","key":"projects/ir-starter-assets/assets/textures/dry-dirt-ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"14bbb4f4-ad4c-48ec-a17d-d177bc25a28d","sid":"51weVPBi","hash":"3811cb9e769a57d8f5118825adf1e29277317cf1b0f9e139a7f34f4a82cee061","url":"","key":"projects/ir-starter-assets/assets/models/NMS_Lightmapped_large.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:17.000Z","updatedAt":"2024-05-30T23:56:17.000Z"},{"id":"1939374d-2363-447f-8efe-8a81ac79db9d","sid":"oNoFR4By","hash":"eedf5d04d4f1b82c382697f7e73c83318e5ceaa76cedfa59aba627c979891954","url":"","key":"projects/ir-starter-assets/assets/models/block_folly_2.gltf","mimeType":"model/gltf+json","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"1bdce44d-4b8f-41df-9823-fcf4e8eb3755","sid":"4SGdVYvj","hash":"24c97d42e53a578e3f213348034327206ffc4622ff694812227cd8b4213a725c","url":"","key":"projects/ir-starter-assets/assets/textures/wispy-grass-meadow_albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"1c64e0fc-b1bc-4f52-ac25-eb1eb524ea73","sid":"dhX3R2EE","hash":"fc7ff55b32c8a1b7d892abbfcd5a991ec6f99282cebf72917fe8c08729f08c04","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_04.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"259d069f-20d8-4804-8ac5-875380f41609","sid":"pUGzd2fM","hash":"37aa57d9960c52e38999466273df4536dabc726185a00d0f07458f7c02dd0e65","url":"","key":"projects/ir-starter-assets/assets/textures/wavy-sand_normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"264ff66a-cb6f-435e-9c08-dea4c002569e","sid":"K_4PknoY","hash":"0b75eeaf6d9b50a83cc433e6e50b323f7bf418cd22462dd6f041bc95bec4aabf","url":"","key":"projects/ir-starter-assets/assets/models/NMS_Template_medium.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:18.000Z","updatedAt":"2024-05-30T23:56:18.000Z"},{"id":"27a8b561-f4cb-4d51-87db-a5f5901939fc","sid":"3G2Flm1R","hash":"089e24cd5f3c8c53d07d833a5496f9b6e4a9289c1f5e0b30538a41d5e232b631","url":"","key":"projects/ir-starter-assets/assets/models/block_folly_2.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"2aa78ac3-6842-4acc-8279-3d7aaa6e1d51","sid":"KnLYwfIu","hash":"079013cc58bb62ebb7d5955e48a6a677a582d0396b35e03e02099aa8e8e384ac","url":"","key":"projects/ir-starter-assets/assets/textures/coarse-loose-fabric_albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"2d91375c-ebe0-4ff1-90a0-0ac5b1910462","sid":"_ugf_da3","hash":"1d16d37449f5aa1791f1e00e50a4e426e5a4536b2ef6267fd211cbf55a5a06e9","url":"","key":"projects/ir-starter-assets/assets/models/curved_folly_1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"349661e7-f7ef-4776-bc55-bee217488d98","sid":"9PLrg7xV","hash":"20ffbc6dbe9d87f0bad44ba02c86cc399539d32e85418f8a8702d9be1ae66877","url":"","key":"projects/ir-starter-assets/assets/models/fractal_arch.gltf","mimeType":"model/gltf+json","project":"ir-starter-assets","tags":["Model","starter assets","artistic","sculpture","architectural","fractal"],"createdAt":"2024-05-30T23:56:28.000Z","updatedAt":"2024-05-30T23:56:28.000Z"},{"id":"34b5b731-a7cc-4f0e-9889-292cfebbed72","sid":"3vKLrjd2","hash":"4aed1125b0d3a8859cf3d25248744d8d6995382479cc8baa52c901ea620b0ee7","url":"","key":"projects/ir-starter-assets/assets/textures/coarse-loose-fabric_roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"35d04f26-9aba-4366-a3d0-d69c18a03c0b","sid":"jzOPwuox","hash":"54fc6fe437f8b4af0626da53434d72ec229c9db2d9d0013af0992be86b881402","url":"","key":"projects/ir-starter-assets/assets/models/Ground_cylinder.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","ground","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"36bd147e-9596-4db6-8402-b9ecd46df950","sid":"4LwJWwC5","hash":"e420b842c9bcdd889133ac9989dab925624e3bcc7084de5ddd84817747f4f3d3","url":"","key":"projects/ir-starter-assets/assets/models/block_folly_1.gltf","mimeType":"model/gltf+json","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"3d73686d-8254-4f8f-bf20-a97d3cdc536d","sid":"uzyxhKM5","hash":"69e7df4c0569421eb01f0a049ebec5d313f6b1511e796a610b6bd29b3e72300e","url":"","key":"projects/ir-starter-assets/assets/textures/snowdrift_normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"4408b182-c212-4583-bda3-63a2ceedd098","sid":"xNKlJHDq","hash":"c0acb41575793fd0b3f2729214b0b1ed1088274910c587e624003453e5b1c247","url":"","key":"projects/ir-starter-assets/assets/textures/streaked-marble-roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"458a7906-0ae8-43fe-af44-5cdb85e154d9","sid":"CL4VEUL3","hash":"b493d164c91d9d3ae2a8d798f65cc92698c2fa925a60cecdba93d5dcabeedb78","url":"","key":"projects/ir-starter-assets/assets/models/folly_v4.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:28.000Z","updatedAt":"2024-05-30T23:56:28.000Z"},{"id":"45deb46b-43e1-4f2b-bab7-ccf5d6893329","sid":"mCgFW8yW","hash":"ccdefd31f596499f422f5ec7054347f74769ab92dd219eb983739b7d5097596b","url":"","key":"projects/ir-starter-assets/assets/textures/dry-dirt-albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"477356b2-2e32-4c20-aabd-b2819b4d9746","sid":"lRE4eUg6","hash":"7a18d755bd55e786893eaba79dfb514d74dd3ce8413342962825c5e87856f951","url":"","key":"projects/ir-starter-assets/assets/textures/wavy-sand_albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"49856a4e-0b4c-48de-a2fa-97af7fc0a918","sid":"IAIHwknq","hash":"e9add767a213f7b5f02cc8ad583756da24aa7d7485c48a9fed27b4805ce9c96e","url":"","key":"projects/ir-starter-assets/assets/models/Dome.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","dome","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"4a92ada4-9eac-4baa-b083-951e97cafa7d","sid":"eqEuSmHP","hash":"24aafc3bc01ee078384b1087714d0dff1d73f06df10ff54ac77741b463b4aa75","url":"","key":"projects/ir-starter-assets/assets/models/Ground_10x10.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","ground","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"4e1af7c3-ab4d-4791-b3f5-5b8724d8af58","sid":"StgaS6gr","hash":"4d570140ec3b4800714980dac474c6315f14d31864e154301c1dc5bc430956d0","url":"","key":"projects/ir-starter-assets/assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"4efaa3f7-3cc0-4e77-958b-4e63ecfc6cc0","sid":"zL2o0QN3","hash":"7f6e3070afa91575f30d050c5081aeb264de092d48f6f40a692bf84221188917","url":"","key":"projects/ir-starter-assets/assets/textures/oak-bark-basecolor.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"50ece2b3-2439-4c7b-84fc-4ccb339fda15","sid":"i4sUNZ9C","hash":"0d7d064dec5357df90c0c596cd9ea04e59d6167bb567b69af0c14363d25657e9","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_05.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"5236c23f-f7fd-4197-aef1-8588742580fa","sid":"dHHwHCTZ","hash":"015d53db98fb8c230c8e5fbc9c57a975e39a49b3dfdb6ae7d10d1ee960662dbf","url":"","key":"projects/ir-starter-assets/assets/textures/oak-bark-ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"53e9f4af-6bd8-406a-9752-fc0bc040f697","sid":"a054k-Ie","hash":"6d7af7f5b9f08d755095059f32c5c33d71517b50106a5b1d14be602163b0da7a","url":"","key":"projects/ir-starter-assets/assets/textures/wood_ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"58366d72-acaa-428d-9986-651201da7d45","sid":"5ijhwgUw","hash":"f59614cf5b567ceb14b19c6bf5eab565780628f8f492794bbe3fa40c46e35a82","url":"","key":"projects/ir-starter-assets/assets/textures/wood_roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"5c5fd62d-8da9-45b5-8856-5afe7c9125e5","sid":"35OLPGX2","hash":"1cf4688d31d7a8edf13b59b5b9aaa0b2b66378bf9fc37b4b7a13073670d562d1","url":"","key":"projects/ir-starter-assets/assets/models/curved_folly_2.gltf","mimeType":"model/gltf+json","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"5e2f0446-a604-4f63-8470-3fcbfa1e0f31","sid":"8AyVDPrK","hash":"33d18d958e72229b7107db5bf88e501c5d2be2388aa6b72d16ed846aa5d56b91","url":"","key":"projects/ir-starter-assets/assets/models/Ground_100x100.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","ground","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"66c61914-361d-4ee1-ab88-e6e92f9d8a53","sid":"Ao1g7U5e","hash":"839884398c9892356ec4b472c59a9e83627f09ff13e7ee42022ed40dd1514a95","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_small2.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:24.000Z","updatedAt":"2024-05-30T23:56:24.000Z"},{"id":"66f84a8d-292e-41c5-82dd-4d655d27c432","sid":"XFaIiaGm","hash":"da629c7affcdcc5f52f7fe4d7d39d0f39ea2363e3c381151a7ccba10d8de2fc8","url":"","key":"projects/ir-starter-assets/assets/models/cube_folly.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"6e5c1ad5-d518-4b28-ae56-e729e7722de8","sid":"80y5D__y","hash":"4f43f31daf45b62a88213993fd0ece1d32d816010c621a88b69daa73fc4a76d3","url":"","key":"projects/ir-starter-assets/assets/textures/wood_normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"70bc6aca-04c5-4457-841a-e720e497b3f9","sid":"S-4UXvYs","hash":"6963086b34c426ee51a83ec2fca498acdfec57707b9077fcde3858dad29e40d7","url":"","key":"projects/ir-starter-assets/assets/models/NMS_Template_large.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:18.000Z","updatedAt":"2024-05-30T23:56:18.000Z"},{"id":"7538cefe-44a8-4fab-96fa-afc1a746a53f","sid":"xGdFXM_T","hash":"ebc7cd8151424d26417f5f5dc5aaaf6e52f2c3ac948e58b11faeff9031e57b68","url":"","key":"projects/ir-starter-assets/assets/textures/oak-bark-rough.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"757d5043-3414-43e0-b6fb-b113fa221daf","sid":"EhNcQPFw","hash":"1c1f5760c7c1dc8eff1830a542f2a91bc5c23600a10703adebaeef5e86679b7c","url":"","key":"projects/ir-starter-assets/assets/textures/streaked-marble-albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"7598b75a-2bd5-49b4-9ec2-d223a62d2289","sid":"jYvlvn8V","hash":"57b61cd5d7c55de463fd814ba4880e054e777e285943897364fca078ab766f40","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_small3.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"77836124-3781-4193-aabc-8a4b2aea6b75","sid":"sIBcy4JA","hash":"eb4e2395fa527127ebe55d25c884e01f2f40f348fdef96ba68de718bb14660ec","url":"","key":"projects/ir-starter-assets/assets/textures/blackrock-normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"77c6920c-8bba-4980-823e-d8093342f781","sid":"LAAYP-aH","hash":"fae6d93ddf7c09b6bac592ecb9180ce0de12df24faefef84262e6311466fab11","url":"","key":"projects/ir-starter-assets/assets/textures/dry-dirt-normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"78ca7a4c-e0d3-4656-b036-b07998ae98f1","sid":"gn0mA4sR","hash":"5fa8f904179463c9b29abcbc3c7be601a36877a24c5c97f7b22c7d983a710dbd","url":"","key":"projects/ir-starter-assets/assets/textures/blacckrock-roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"7c53d98f-1c1a-4ddf-84fa-aeef2eb5529b","sid":"7Szy3Nf2","hash":"80b022363407d90a8383932d875c3077a3fb6ba1552f289109cd6afae0af9daa","url":"","key":"projects/ir-starter-assets/assets/textures/snowdrift_albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"7e275a42-b835-479e-89f8-e36817e3cda4","sid":"cWtT4SkC","hash":"6dfbe1588fb5476c44b8305449e0e13ddd8f8f9ff9fa0fee00593b6e482dcdbc","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_02.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"800164bf-d9a3-43e3-a2f1-5ccfc09d34c3","sid":"bJj22n81","hash":"0aded112975b2fb53d2eb3fc2276882f2cfd34dc41270c0abe825eedddce7e42","url":"","key":"projects/ir-starter-assets/assets/models/NMS_HubsLM_Template_large.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:16.000Z","updatedAt":"2024-05-30T23:56:16.000Z"},{"id":"82f3adca-9971-4368-88f0-a3d0411e765d","sid":"wSCTXtH8","hash":"6cf6eebeeff12a981855e3192e3f6d16fa83e8db586db1afcd0eb259583643ba","url":"","key":"projects/ir-starter-assets/assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:28.000Z","updatedAt":"2024-05-30T23:56:28.000Z"},{"id":"838315ff-a682-4ee8-b969-f46886c1fe2e","sid":"hQj4_oig","hash":"b4a1515a530e3a18f19c05ec99541eb4f75fe59cd471ce4c4bd094ecc4cb94b9","url":"","key":"projects/ir-starter-assets/assets/models/curved_folly_2.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"85faa23f-20c3-41ad-b721-887bda5cf279","sid":"BFScnO5u","hash":"14a9c05af7e63756ea88a7066064c545639cfa5065472a6665757d3a40d44b9c","url":"","key":"projects/ir-starter-assets/assets/models/Curved_screen_med.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","production","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"8b49ebd2-e878-45a0-bdde-0b776eda4b15","sid":"ca7UMjD4","hash":"48045691773196d89e4fa1034830fe765936365b5123ee907cb5333dd31831ba","url":"","key":"projects/ir-starter-assets/assets/models/Ground_1x1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","ground","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"8bde3a94-ad40-4849-ac68-75e3c5fbc8ce","sid":"KGjH7UCO","hash":"64ca09a71ee7258d3cd70120b4be75e65587e66db8e2b496d57f6b0610a315bd","url":"","key":"projects/ir-starter-assets/assets/models/block_folly_1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"8cdbcfe1-a622-48d5-a7b7-8a18895a41fa","sid":"ETIQcViL","hash":"d4fdbdb47ca29919bf6905b6abe9a786f7da0a3075be3880ebe3a39a7aa846b4","url":"","key":"projects/ir-starter-assets/assets/textures/coarse-loose-fabric_normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"8f944692-a607-42fb-b607-b54406904b8c","sid":"6Zx-1-FR","hash":"659ce1f3199adb7b4c981e224b1e9e1717759494bbf49c14663e715d25c62e73","url":"","key":"projects/ir-starter-assets/assets/textures/wavy-sand_roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"91f1e261-5034-4b08-8a99-b05fbdbe0255","sid":"vgIYiDCX","hash":"772446eb5630b46a3ebfb71c6fe4d774ec5473f4bd5b96a99553ce5dbdda3ab1","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_medium3.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:23.000Z","updatedAt":"2024-05-30T23:56:23.000Z"},{"id":"968aa249-f731-4617-8523-36453f2c6245","sid":"dgsA_1PJ","hash":"af71e393ec9de22dd8627177f9c2781e13ac2ee7ea4bd64d06a8de66a41fb8df","url":"","key":"projects/ir-starter-assets/assets/textures/coarse-loose-fabric_ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"9b06b7f4-ce9b-44d5-9946-af2044249ed3","sid":"XmSk2FYE","hash":"4ca9101100749b163865986d1559b7f56b7e9c107eca54aeafe1e16f9d669b19","url":"","key":"projects/ir-starter-assets/assets/textures/wispy-grass-meadow_roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"9c341ea2-3e48-402e-8bb6-79d9cca5c2b5","sid":"pAu2rYOG","hash":"b544c7cf64563554a70b15563641c6f687b253d33ba0037bbd320eb7390d4749","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_medium1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:21.000Z","updatedAt":"2024-05-30T23:56:21.000Z"},{"id":"a24548ec-cb17-48a5-9ac7-a15639784948","sid":"7Ebo_xeW","hash":"e868efaf21a41de1126aac195d42ae934a163d80657855cb4c0e088fd8389b18","url":"","key":"projects/ir-starter-assets/assets/textures/streaked-marble-normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"a5d17543-1d24-40d6-aee2-83ab030123f8","sid":"vJ5egXpU","hash":"4b88fca1097652971db7e6a2c201cfbd9d3cc08afee366077ae3d236c767743f","url":"","key":"projects/ir-starter-assets/assets/models/curved_folly_2_small.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"af835a81-3ffa-4072-849b-c35c1ca59381","sid":"jiJl3w2B","hash":"9bc8d13cd837edcd5c08c7d9530ba6f3e5eb8c378cc62f749156ffa26807b54c","url":"","key":"projects/ir-starter-assets/assets/textures/snowdrift_ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"afeab8ed-04f6-4b14-8803-791375e3b7b6","sid":"ZcDA-nPc","hash":"5433612bfc42a3d2d9bca9b4021633cf186184bce4c0773708173f21f855a2e5","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_03.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"b89ccd65-c72c-440a-ad4a-b9053d4b6e5b","sid":"yjC_LQZc","hash":"dc2168d70a355561bd39d955552ab4cec7fca9b31cd69824bf65283d35c2cd98","url":"","key":"projects/ir-starter-assets/assets/models/Curved_screen_tall.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","production","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"b8db71e9-e1e8-41e9-945e-b1da44bec079","sid":"vdDpHqYW","hash":"5284dbeef3801d5d3c64dc2cad7d68c882aaafeb6e86550201c4a107f219233c","url":"","key":"projects/ir-starter-assets/assets/textures/oak-bark-normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"b98a6e1e-4473-4758-8f0e-600ad495d631","sid":"r6qd6KK8","hash":"4fd2c0e9105c6e0b5a2c01eb316ea23843a3f61ebab0635239a7ca386bbfb565","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_large1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:20.000Z","updatedAt":"2024-05-30T23:56:20.000Z"},{"id":"c31cfcf4-aedf-4a36-b711-c3c7182ab34b","sid":"EIzpmKpY","hash":"5f5887cd0edd2dc4add2ebb5432439c2543a0cd52628045b494dc0e3abcdc2ed","url":"","key":"projects/ir-starter-assets/assets/textures/wavy-sand_ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"c6eb994e-c7b0-41fe-a576-32d1444de563","sid":"nWHSENw9","hash":"38b9cd0cbaf5107903d8a3297e90d8a5748d70ffd0ac5b26855a808673d4abaf","url":"","key":"projects/ir-starter-assets/assets/models/curved_folly_3.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","template","ecommerce","store","facade","minimal","stage"],"createdAt":"2024-05-30T23:56:27.000Z","updatedAt":"2024-05-30T23:56:27.000Z"},{"id":"c7ead157-090b-43dc-9396-bc31329a965d","sid":"crzSCy26","hash":"f383a7d13dea1e970fa55400205254b5020346d2e0b02130fe433471515e05e4","url":"","key":"projects/ir-starter-assets/assets/textures/wood_albedo.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"ca3b398a-0e10-4c8e-8d93-8409749237b7","sid":"5z7AO4se","hash":"e4aacde78d39245b7b0c9895ef664ed3aabfb57890e079b30b2d9b65bf40ae42","url":"","key":"projects/ir-starter-assets/assets/textures/snowdrift_roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"cce82278-5fc5-4d38-80f9-84f2a647f2e0","sid":"OCGa4Nih","hash":"32ef5a281d11ed64f18b6034eb45f5a0a9e3f0d1bd470869e074aa0a581a6f32","url":"","key":"projects/ir-starter-assets/assets/models/textures/Wood_Furniture_modular_Base_color.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:28.000Z","updatedAt":"2024-05-30T23:56:28.000Z"},{"id":"d20a617a-111d-4ff2-a410-f55eda6920a6","sid":"bi2EJfUw","hash":"6554cc9c4596a3e1303842e29b7d15c62fa36f6697b2edf9684a143a6d8e6d4d","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_large2.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:21.000Z","updatedAt":"2024-05-30T23:56:21.000Z"},{"id":"dbdefb49-3d80-43ba-af07-dbe2d5ed3783","sid":"VYayIQAK","hash":"206ff18c29c30186c02d369167f983cf8ab1c16a066927c52967d611f33ceb22","url":"","key":"projects/ir-starter-assets/assets/textures/blackrock-ao.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:29.000Z","updatedAt":"2024-05-30T23:56:29.000Z"},{"id":"e670f34b-58ff-496a-9bc1-3f891075b4af","sid":"_CqOQV8t","hash":"09029a3031de4fe5fbdbe6ec1963db3ccf129c9bf7e44e9ce72fd7738508f169","url":"","key":"projects/ir-starter-assets/assets/models/NMS_Template_small.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:19.000Z","updatedAt":"2024-05-30T23:56:19.000Z"},{"id":"e68a9208-e06d-429a-a267-3dd0c35056e2","sid":"eiEErpQ0","hash":"a6102a8af5da57d073245f25216e745ba099338828054ccfb6bd1d47a8c10ab1","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_01.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:25.000Z","updatedAt":"2024-05-30T23:56:25.000Z"},{"id":"e7d6d2bb-440c-4e1a-bd28-c4371db99896","sid":"3-xEGyEf","hash":"c613d4f628f4655dd65a85303c4eab15186bbc5dec7aae1c01c92b34e1bb74ba","url":"","key":"projects/ir-starter-assets/assets/textures/wispy-grass-meadow_normal.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:31.000Z","updatedAt":"2024-05-30T23:56:31.000Z"},{"id":"ee1eadc0-fcf8-4d8f-bc65-1a98b3d09db5","sid":"wwXznCEa","hash":"568e9920a467a453b095d1e32af2127fff82e86b351c451e9acf9e2f0b42947f","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_07.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"ee927996-52e3-4eab-8f78-a7d4654e68eb","sid":"BalNbRZ0","hash":"60e810d3cf380593d42c4cd854bc2f9729a4ba07af860ca50218f393893f15bf","url":"","key":"projects/ir-starter-assets/assets/textures/dry-dirt-roughness.png","mimeType":"image/png","project":"ir-starter-assets","tags":["Image"],"createdAt":"2024-05-30T23:56:30.000Z","updatedAt":"2024-05-30T23:56:30.000Z"},{"id":"f1f57a82-e930-4924-8128-fafd32bad183","sid":"_bv5qMEu","hash":"d2f7b23416ff23b48230cf7647c31170823f56b985244fd9e0f40675d6f6bad1","url":"","key":"projects/ir-starter-assets/assets/models/Half_dome.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","basic shape","dome","primitive"],"createdAt":"2024-05-30T23:56:15.000Z","updatedAt":"2024-05-30T23:56:15.000Z"},{"id":"f423d49b-c2e2-4435-8b37-9c1f4cbf024b","sid":"rPLNBgV1","hash":"e9aa8bbe70e2891a58d48d23c48ffa189df766ba76079c4400d0de2256dea763","url":"","key":"projects/ir-starter-assets/assets/models/artistic_tree_06.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","artistic","nature","tree"],"createdAt":"2024-05-30T23:56:26.000Z","updatedAt":"2024-05-30T23:56:26.000Z"},{"id":"f582ba78-74fa-4a45-9e5f-a2d72c45a505","sid":"Ex6DgI8X","hash":"23f4766cdfc91e2520c2b5de5a7245f120f3a6aaefbf352ae248133db50e2312","url":"","key":"projects/ir-starter-assets/assets/models/Natural_Store_demo_small1.glb","mimeType":"model/gltf-binary","project":"ir-starter-assets","tags":["Model","starter assets","stage","template","ecommerce","facade","minimal"],"createdAt":"2024-05-30T23:56:24.000Z","updatedAt":"2024-05-30T23:56:24.000Z"}]
+{
+  "assets/materials/balloon-physical.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/bark.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/brass.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/cloth.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/copper.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltfhash5c5d50-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/materials/dirt.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/glass-physical.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltfhash5ef502-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/materials/glass.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/glow.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/gold.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltfhasha9279d-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/materials/grass.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/iron.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltfhash5d15ad-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/materials/marble.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/plastic-blue-physical.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/platinum.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/rubber.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltfhash704c13-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/materials/sand.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/silver.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/snow.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/stone.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/titanium.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/materials/wood.material.gltf": {
+    "type": "file",
+    "tags": [
+      "Material"
+    ],
+    "dependencies": []
+  },
+  "assets/models/artistic_tree_01.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_01.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_02.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_02.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_03.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_03.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_04.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_04.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_05.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_05.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_06.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_06.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/artistic_tree_07.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "artistic",
+      "nature",
+      "tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_07.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/block_folly_1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_1.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/block_folly_2.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/cube_folly.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscube_folly.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/curved_folly_1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_1.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/curved_folly_2_small.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2_small.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/curved_folly_2.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/curved_folly_3.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_3.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_screen_med.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "production",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_med.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_screen_tall.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "production",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_tall.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dome.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "dome",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/folly_v4.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "template",
+      "ecommerce",
+      "store",
+      "facade",
+      "minimal",
+      "stage"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Ground_100x100.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "ground",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_100x100.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Ground_10x10.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "ground",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_10x10.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Ground_1x1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "ground",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_1x1.glbhash480456-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Ground_cylinder.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "ground",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_cylinder.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Half_dome.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "basic shape",
+      "dome",
+      "primitive"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsHalf_dome.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_large1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large1.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_large2.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large2.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_medium1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium1.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_medium2.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium2.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_medium3.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium3.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_small1.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small1.glbhash23f476-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_small2.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small2.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Natural_Store_demo_small3.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/NMS_HubsLM_Template_large.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_HubsLM_Template_large.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/NMS_Lightmapped_large.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Lightmapped_large.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/NMS_Template_large.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_large.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/NMS_Template_medium.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_medium.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/NMS_Template_small.glb": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "starter assets",
+      "stage",
+      "template",
+      "ecommerce",
+      "facade",
+      "minimal"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_small.glbhash09029a-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/blacckrock-roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblacckrock-roughness.pnghash5fa8f9-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/blackrock-albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-albedo.pnghash840ec4-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/blackrock-ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-ao.pnghash206ff1-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/blackrock-normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-normal.pnghasheb4e23-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/coarse-loose-fabric_albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_albedo.pnghash079013-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/coarse-loose-fabric_ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_ao.pnghashaf71e3-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/coarse-loose-fabric_normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_normal.pnghashd4fdbd-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/coarse-loose-fabric_roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_roughness.pnghash4aed11-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/dry-dirt-albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-albedo.pnghashccdefd-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/dry-dirt-ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-ao.pnghash2da235-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/dry-dirt-normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-normal.pnghashfae6d9-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/dry-dirt-roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-roughness.pnghash60e810-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/oak-bark-ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-ao.pnghash015d53-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/oak-bark-basecolor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-basecolor.pnghash7f6e30-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/oak-bark-normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-normal.pnghash5284db-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/oak-bark-rough.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-rough.pnghashebc7cd-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/snowdrift_albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_albedo.pnghash80b022-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/snowdrift_ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_ao.pnghash9bc8d1-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/snowdrift_normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_normal.pnghash69e7df-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/snowdrift_roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_roughness.pnghashe4aacd-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/streaked-marble-albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-albedo.pnghash1c1f57-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/streaked-marble-normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-normal.pnghashe868ef-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/streaked-marble-roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-roughness.pnghashc0acb4-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wavy-sand_albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_albedo.pnghash7a18d7-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wavy-sand_ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_ao.pnghash5f5887-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wavy-sand_normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_normal.pnghash37aa57-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wavy-sand_roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_roughness.pnghash659ce1-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wispy-grass-meadow_albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_albedo.pnghash24c97d-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wispy-grass-meadow_ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_ao.pnghash2e8778-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wispy-grass-meadow_normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_normal.pnghashc613d4-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wispy-grass-meadow_roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_roughness.pnghash4ca910-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wood_albedo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_albedo.pnghashf383a7-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wood_ao.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_ao.pnghash6d7af7-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wood_normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_normal.pnghash4f43f3-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/textures/wood_roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
+    "thumbnailMode": "automatic"
+  }
+}
