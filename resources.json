@@ -4,28 +4,36 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsballoon-physical.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/bark.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbark.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/brass.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbrass.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/cloth.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscloth.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/copper.material.gltf": {
     "type": "file",
@@ -33,7 +41,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltfhash5c5d50-thumbnail.png",
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/dirt.material.gltf": {
@@ -41,7 +49,9 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsdirt.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/glass-physical.material.gltf": {
     "type": "file",
@@ -49,7 +59,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltfhash5ef502-thumbnail.png",
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/glass.material.gltf": {
@@ -57,14 +67,18 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/glow.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglow.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/gold.material.gltf": {
     "type": "file",
@@ -72,7 +86,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltfhasha9279d-thumbnail.png",
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/grass.material.gltf": {
@@ -80,7 +94,9 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgrass.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/iron.material.gltf": {
     "type": "file",
@@ -88,7 +104,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltfhash5d15ad-thumbnail.png",
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/marble.material.gltf": {
@@ -96,21 +112,27 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsmarble.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/plastic-blue-physical.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplastic-blue-physical.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/platinum.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplatinum.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/rubber.material.gltf": {
     "type": "file",
@@ -118,7 +140,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltfhash704c13-thumbnail.png",
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/sand.material.gltf": {
@@ -126,42 +148,54 @@
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssand.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/silver.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssilver.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/snow.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssnow.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/stone.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsstone.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/titanium.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialstitanium.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/materials/wood.material.gltf": {
     "type": "file",
     "tags": [
       "Material"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialswood.material.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_01.glb": {
     "type": "asset",
