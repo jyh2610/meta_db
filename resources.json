@@ -742,6 +742,476 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/arctic/Arctic_aurora_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_midday_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_midday_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_midday_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_sunset_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_sunset_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_sunset_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_afternoon.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoon.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_day.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_night_hills.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_sunset_hills.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_sunset.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_01.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_02.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_03.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_04.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_clouds_bright.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_bright.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_clouds_dark.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_day_overcast.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_midday.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_night.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_sunrise_overcast.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcast.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_sunset.png": {
+    "type": "file",
+    "tags": [
+      "Skybox",
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/textures/blacckrock-roughness.png": {
     "type": "file",
     "tags": [
