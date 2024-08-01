@@ -1,6 +1,6 @@
 {
   "assets/materials/balloon-physical.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -9,7 +9,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/bark.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -18,7 +18,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/brass.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -27,7 +27,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/cloth.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -36,7 +36,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/copper.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -45,7 +45,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/dirt.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -54,7 +54,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/glass-physical.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -63,7 +63,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/glass.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -72,7 +72,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/glow.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -81,7 +81,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/gold.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -90,7 +90,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/grass.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -99,7 +99,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/iron.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -108,7 +108,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/marble.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -117,7 +117,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/plastic-blue-physical.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -126,7 +126,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/platinum.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -135,7 +135,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/rubber.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -144,7 +144,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/sand.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -153,7 +153,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/silver.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -162,7 +162,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/snow.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -171,7 +171,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/stone.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -180,7 +180,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/titanium.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -189,7 +189,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/materials/wood.material.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Material"
     ],
@@ -716,7 +716,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -725,7 +725,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -734,7 +734,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -743,7 +743,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -753,7 +753,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -763,7 +763,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -773,7 +773,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -783,7 +783,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -793,7 +793,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -803,7 +803,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -813,7 +813,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -823,7 +823,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -833,7 +833,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -843,7 +843,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -853,7 +853,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -863,7 +863,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -873,7 +873,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -883,7 +883,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -893,7 +893,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_afternoon.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -903,7 +903,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_day.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -913,7 +913,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_night_hills.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -923,7 +923,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset_hills.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -933,7 +933,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -943,7 +943,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -953,7 +953,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -963,7 +963,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -973,7 +973,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -983,7 +983,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -993,7 +993,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1003,7 +1003,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1013,7 +1013,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1023,7 +1023,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1033,7 +1033,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1043,7 +1043,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1053,7 +1053,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1063,7 +1063,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1073,7 +1073,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1083,7 +1083,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1093,7 +1093,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1103,7 +1103,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_01.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1113,7 +1113,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_02.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1123,7 +1123,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_03.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1133,7 +1133,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_04.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1143,7 +1143,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_bright.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1153,7 +1153,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_dark.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1163,7 +1163,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_day_overcast.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1173,7 +1173,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_midday.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1183,7 +1183,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_night.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1193,7 +1193,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunrise_overcast.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1203,7 +1203,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunset.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Skybox",
       "Image"
@@ -1213,7 +1213,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/blacckrock-roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1222,7 +1222,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1231,7 +1231,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1240,7 +1240,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1249,7 +1249,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1258,7 +1258,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1267,7 +1267,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1276,7 +1276,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1285,7 +1285,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1294,7 +1294,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1303,7 +1303,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1312,7 +1312,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1321,7 +1321,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1330,7 +1330,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-basecolor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1339,7 +1339,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1348,7 +1348,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-rough.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1357,7 +1357,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1366,7 +1366,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1375,7 +1375,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1384,7 +1384,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1393,7 +1393,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1402,7 +1402,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1411,7 +1411,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1420,7 +1420,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1429,7 +1429,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1438,7 +1438,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1447,7 +1447,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1456,7 +1456,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1465,7 +1465,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1474,7 +1474,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1483,7 +1483,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1492,7 +1492,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_albedo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1501,7 +1501,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_ao.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1510,7 +1510,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1519,7 +1519,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
