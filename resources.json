@@ -742,6 +742,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/arctic/Arctic_aurora_01.png": {
     "type": "asset",
     "tags": [
@@ -750,6 +760,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_midday_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_01.png": {
@@ -762,6 +782,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/arctic/Arctic_midday_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/arctic/Arctic_midday_02.png": {
     "type": "asset",
     "tags": [
@@ -770,6 +800,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_midday_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_03.png": {
@@ -782,6 +822,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/arctic/Arctic_sunset_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/arctic/Arctic_sunset_01.png": {
     "type": "asset",
     "tags": [
@@ -790,6 +840,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/arctic/Arctic_sunset_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_02.png": {
@@ -802,6 +862,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/arctic/Arctic_sunset_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/arctic/Arctic_sunset_03.png": {
     "type": "asset",
     "tags": [
@@ -810,6 +880,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_01.png": {
@@ -822,6 +902,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/desert/desert_daytime_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/desert/desert_daytime_02.png": {
     "type": "asset",
     "tags": [
@@ -830,6 +920,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_daytime_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_03.png": {
@@ -842,6 +942,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/desert/desert_daytime_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/desert/desert_daytime_04.png": {
     "type": "asset",
     "tags": [
@@ -850,6 +960,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_01.png": {
@@ -862,6 +982,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/desert/desert_nighttime_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/desert/desert_nighttime_02.png": {
     "type": "asset",
     "tags": [
@@ -870,6 +1000,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/desert/desert_nighttime_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_03.png": {
@@ -882,6 +1022,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/desert/desert_nighttime_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/desert/desert_nighttime_04.png": {
     "type": "asset",
     "tags": [
@@ -890,6 +1040,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_afternoom.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoom.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_afternoon.png": {
@@ -902,6 +1062,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoon.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/forest/forest_day.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/forest/forest_day.png": {
     "type": "asset",
     "tags": [
@@ -910,6 +1080,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_night_hills.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_night_hills.png": {
@@ -922,6 +1102,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/forest/forest_sunset_hills.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/forest/forest_sunset_hills.png": {
     "type": "asset",
     "tags": [
@@ -930,6 +1120,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/forest/forest_sunset.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset.png": {
@@ -942,6 +1142,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_midday_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_midday_01.png": {
     "type": "asset",
     "tags": [
@@ -950,6 +1160,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_02.png": {
@@ -962,6 +1182,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_midday_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_midday_03.png": {
     "type": "asset",
     "tags": [
@@ -970,6 +1200,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_midday_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_04.png": {
@@ -982,6 +1222,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_nighttime_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_nighttime_01.png": {
     "type": "asset",
     "tags": [
@@ -990,6 +1240,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_02.png": {
@@ -1002,6 +1262,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_nighttime_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_nighttime_03.png": {
     "type": "asset",
     "tags": [
@@ -1010,6 +1280,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_nighttime_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_04.png": {
@@ -1022,6 +1302,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_sunset_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_sunset_01.png": {
     "type": "asset",
     "tags": [
@@ -1030,6 +1320,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_02.png": {
@@ -1042,6 +1342,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/generic/generic_sunset_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/generic/generic_sunset_03.png": {
     "type": "asset",
     "tags": [
@@ -1050,6 +1360,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/generic/generic_sunset_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_04.png": {
@@ -1062,6 +1382,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/mountains/Mountains_midday_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/mountains/Mountains_midday_01.png": {
     "type": "asset",
     "tags": [
@@ -1070,6 +1400,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_02.png": {
@@ -1082,6 +1422,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/mountains/Mountains_midday_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/mountains/Mountains_midday_03.png": {
     "type": "asset",
     "tags": [
@@ -1090,6 +1440,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_midday_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_04.png": {
@@ -1102,6 +1462,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/mountains/Mountains_sunrise_01.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/mountains/Mountains_sunrise_01.png": {
     "type": "asset",
     "tags": [
@@ -1110,6 +1480,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_02.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_02.png": {
@@ -1122,6 +1502,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/mountains/Mountains_sunrise_03.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/mountains/Mountains_sunrise_03.png": {
     "type": "asset",
     "tags": [
@@ -1130,6 +1520,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/mountains/Mountains_sunrise_04.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_04.png": {
@@ -1142,6 +1542,14 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/volcano/volcano_clouds_bright.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": []
+  },
   "assets/skyboxes/volcano/volcano_clouds_bright.png": {
     "type": "asset",
     "tags": [
@@ -1150,6 +1558,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_bright.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_clouds_dark.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_dark.png": {
@@ -1162,6 +1580,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/volcano/volcano_day_overcast.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/volcano/volcano_day_overcast.png": {
     "type": "asset",
     "tags": [
@@ -1170,6 +1598,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_midday.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_midday.png": {
@@ -1182,6 +1620,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/volcano/volcano_night.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/volcano/volcano_night.png": {
     "type": "asset",
     "tags": [
@@ -1192,6 +1640,16 @@
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/skyboxes/volcano/volcano_sunrise_overcaset.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcaset.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/skyboxes/volcano/volcano_sunrise_overcast.png": {
     "type": "asset",
     "tags": [
@@ -1200,6 +1658,16 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcast.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/skyboxes/volcano/volcano_sunset.lookdev.gltf": {
+    "type": "asset",
+    "tags": [
+      "Lookdev",
+      "Skybox"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunset.png": {
@@ -1526,5 +1994,21 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "public/scenes/New-Scene-1.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
   }
 }

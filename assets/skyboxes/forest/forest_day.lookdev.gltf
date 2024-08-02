@@ -1,0 +1,44 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "name": "forest_day",
+      "extensions": {
+        "EE_uuid": "bd7b3a91-2da8-410c-aa77-38dcee1c06e3",
+        "EE_visible": true,
+        "EE_skybox": {
+          "backgroundColor": 0,
+          "equirectangularPath": "__$project$__/ir-starter-assets/assets/skyboxes/forest/forest_day.png?hash=c1b334",
+          "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
+          "backgroundType": 2,
+          "skyboxProps": {
+            "turbidity": 10,
+            "rayleigh": 1,
+            "luminance": 1,
+            "mieCoefficient": 0.004999999999999893,
+            "mieDirectionalG": 0.99,
+            "inclination": 0.10471975511965978,
+            "azimuth": 0.16666666666666666
+          }
+        }
+      }
+    }
+  ],
+  "extensionsUsed": [
+    "EE_uuid",
+    "EE_visible",
+    "EE_skybox",
+    "EE_ecs"
+  ]
+}
