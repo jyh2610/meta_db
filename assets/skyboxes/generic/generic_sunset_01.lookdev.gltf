@@ -19,7 +19,7 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 0,
-          "equirectangularPath": "__$project$__/ir-starter-assets/assets/skyboxes/generic/generic_sunset_01.png?hash=a41df4",
+          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/generic/generic_sunset_01.png?hash=a41df4",
           "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {
