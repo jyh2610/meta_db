@@ -19,7 +19,7 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 3026478,
-          "equirectangularPath": "__$project$__/ir-starter-assets/assets/skyboxes/arctic/Arctic_aurora_01.png?hash=c9df6a",
+          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/arctic/Arctic_aurora_01.png?hash=c9df6a",
           "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {

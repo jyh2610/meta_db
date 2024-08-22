@@ -19,7 +19,7 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 0,
-          "equirectangularPath": "__$project$__/ir-starter-assets/assets/skyboxes/mountains/Mountains_midday_01.png?hash=06f763",
+          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/mountains/Mountains_midday_01.png?hash=06f763",
           "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {

@@ -19,7 +19,7 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 0,
-          "equirectangularPath": "__$project$__/ir-starter-assets/assets/skyboxes/generic/generic_nighttime_02.png?hash=f37a26",
+          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/generic/generic_nighttime_02.png?hash=f37a26",
           "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {
