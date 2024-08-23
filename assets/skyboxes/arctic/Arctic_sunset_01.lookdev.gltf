@@ -10,7 +10,7 @@
         0
       ],
       "extras": {
-        "src": "__$project$__/theinfinitereality/ir-starter-assets/assets/custom-prefabs/Arctic_sunset_01.gltf"
+        "src": "__$project$__/ir-engine/ir-starter-assets/assets/custom-prefabs/Arctic_sunset_01.gltf"
       }
     }
   ],
@@ -23,8 +23,8 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 3026478,
-          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/arctic/Arctic_sunset_01.png?hash=1e30ae",
-          "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
+          "equirectangularPath": "__$project$__/ir-engine/ir-starter-assets/assets/skyboxes/arctic/Arctic_sunset_01.png?hash=1e30ae",
+          "cubemapPath": "__$project$__/ir-engine/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {
             "turbidity": 10,
@@ -53,8 +53,8 @@
             "name": "EE_skybox",
             "props": {
               "backgroundColor": 3026478,
-              "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/arctic/Arctic_sunset_01.png?hash=cf0c2b",
-              "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
+              "equirectangularPath": "__$project$__/ir-engine/ir-starter-assets/assets/skyboxes/arctic/Arctic_sunset_01.png?hash=cf0c2b",
+              "cubemapPath": "__$project$__/ir-engine/default-project/assets/skyboxsun25deg/",
               "backgroundType": 2,
               "skyboxProps": {
                 "turbidity": 10,

@@ -5,7 +5,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsballoon-physical.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsballoon-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/bark.material.gltf": {
@@ -14,7 +14,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbark.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbark.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/brass.material.gltf": {
@@ -23,7 +23,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbrass.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsbrass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/cloth.material.gltf": {
@@ -32,7 +32,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscloth.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscloth.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/copper.material.gltf": {
@@ -41,7 +41,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialscopper.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/dirt.material.gltf": {
@@ -50,7 +50,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsdirt.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsdirt.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/glass-physical.material.gltf": {
@@ -59,7 +59,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/glass.material.gltf": {
@@ -68,7 +68,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/glow.material.gltf": {
@@ -77,7 +77,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglow.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsglow.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/gold.material.gltf": {
@@ -86,7 +86,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgold.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/grass.material.gltf": {
@@ -95,7 +95,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgrass.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsgrass.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/iron.material.gltf": {
@@ -104,7 +104,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsiron.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/marble.material.gltf": {
@@ -113,7 +113,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsmarble.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsmarble.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/plastic-blue-physical.material.gltf": {
@@ -122,7 +122,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplastic-blue-physical.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplastic-blue-physical.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/platinum.material.gltf": {
@@ -131,7 +131,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplatinum.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsplatinum.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/rubber.material.gltf": {
@@ -140,7 +140,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsrubber.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/sand.material.gltf": {
@@ -149,7 +149,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssand.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssand.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/silver.material.gltf": {
@@ -158,7 +158,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssilver.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssilver.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/snow.material.gltf": {
@@ -167,7 +167,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssnow.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialssnow.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/stone.material.gltf": {
@@ -176,7 +176,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsstone.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialsstone.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/titanium.material.gltf": {
@@ -185,7 +185,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialstitanium.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialstitanium.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/materials/wood.material.gltf": {
@@ -194,7 +194,7 @@
       "Material"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialswood.material.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmaterialswood.material.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_01.glb": {
@@ -207,7 +207,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_01.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_01.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_02.glb": {
@@ -220,7 +220,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_02.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_02.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_03.glb": {
@@ -233,7 +233,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_03.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_03.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_04.glb": {
@@ -246,7 +246,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_04.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_04.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_05.glb": {
@@ -259,7 +259,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_05.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_05.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_06.glb": {
@@ -272,7 +272,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_06.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_06.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/artistic_tree_07.glb": {
@@ -285,7 +285,7 @@
       "tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_07.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsartistic_tree_07.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/block_folly_1.glb": {
@@ -301,7 +301,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_1.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_1.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/block_folly_2.glb": {
@@ -317,7 +317,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/cube_folly.glb": {
@@ -333,7 +333,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscube_folly.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscube_folly.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_1.glb": {
@@ -349,7 +349,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_1.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_1.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_2_small.glb": {
@@ -365,7 +365,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2_small.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2_small.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_2.glb": {
@@ -381,7 +381,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/curved_folly_3.glb": {
@@ -397,7 +397,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_3.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelscurved_folly_3.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Curved_screen_med.glb": {
@@ -410,7 +410,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_med.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_med.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Curved_screen_tall.glb": {
@@ -423,7 +423,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_tall.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsCurved_screen_tall.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Dome.glb": {
@@ -436,7 +436,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/folly_v4.glb": {
@@ -452,7 +452,7 @@
       "stage"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Ground_100x100.glb": {
@@ -465,7 +465,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_100x100.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_100x100.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Ground_10x10.glb": {
@@ -478,7 +478,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_10x10.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_10x10.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Ground_1x1.glb": {
@@ -491,7 +491,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_1x1.glbhash480456-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_1x1.glbhash480456-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Ground_cylinder.glb": {
@@ -504,7 +504,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_cylinder.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsGround_cylinder.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Half_dome.glb": {
@@ -517,7 +517,7 @@
       "primitive"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsHalf_dome.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsHalf_dome.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_large1.glb": {
@@ -532,7 +532,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large1.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large1.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_large2.glb": {
@@ -547,7 +547,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large2.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_large2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium1.glb": {
@@ -562,7 +562,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium1.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium1.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium2.glb": {
@@ -577,7 +577,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium2.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_medium3.glb": {
@@ -592,7 +592,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium3.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_medium3.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small1.glb": {
@@ -607,7 +607,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small1.glbhash23f476-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small1.glbhash23f476-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small2.glb": {
@@ -622,7 +622,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small2.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small3.glb": {
@@ -637,7 +637,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/NMS_HubsLM_Template_large.glb": {
@@ -652,7 +652,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_HubsLM_Template_large.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_HubsLM_Template_large.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/NMS_Lightmapped_large.glb": {
@@ -667,7 +667,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Lightmapped_large.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Lightmapped_large.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/NMS_Template_large.glb": {
@@ -682,7 +682,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_large.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_large.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/NMS_Template_medium.glb": {
@@ -697,7 +697,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_medium.glb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_medium.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/NMS_Template_small.glb": {
@@ -712,7 +712,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_small.glbhash09029a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_small.glbhash09029a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
@@ -721,7 +721,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
@@ -730,7 +730,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
@@ -739,7 +739,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
@@ -749,7 +749,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.png": {
@@ -759,7 +759,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_aurora_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_01.lookdev.gltf": {
@@ -769,7 +769,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_01.png": {
@@ -779,7 +779,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_02.lookdev.gltf": {
@@ -789,7 +789,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_02.png": {
@@ -799,7 +799,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_03.lookdev.gltf": {
@@ -809,7 +809,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_midday_03.png": {
@@ -819,7 +819,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_01.lookdev.gltf": {
@@ -829,7 +829,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_01.png": {
@@ -839,7 +839,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_02.lookdev.gltf": {
@@ -849,7 +849,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_02.png": {
@@ -859,7 +859,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_03.lookdev.gltf": {
@@ -869,7 +869,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_sunset_03.png": {
@@ -879,7 +879,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesarcticArctic_sunset_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_01.lookdev.gltf": {
@@ -889,7 +889,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_01.png": {
@@ -899,7 +899,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_02.lookdev.gltf": {
@@ -909,7 +909,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_02.png": {
@@ -919,7 +919,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_03.lookdev.gltf": {
@@ -929,7 +929,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_03.png": {
@@ -939,7 +939,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_04.lookdev.gltf": {
@@ -949,7 +949,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_daytime_04.png": {
@@ -959,7 +959,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_daytime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_01.lookdev.gltf": {
@@ -969,7 +969,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_01.png": {
@@ -979,7 +979,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_02.lookdev.gltf": {
@@ -989,7 +989,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_02.png": {
@@ -999,7 +999,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_03.lookdev.gltf": {
@@ -1009,7 +1009,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_03.png": {
@@ -1019,7 +1019,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_04.lookdev.gltf": {
@@ -1029,7 +1029,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/desert/desert_nighttime_04.png": {
@@ -1039,7 +1039,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesdesertdesert_nighttime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_afternoom.lookdev.gltf": {
@@ -1049,7 +1049,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoom.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoom.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_afternoon.png": {
@@ -1059,7 +1059,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoon.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_afternoon.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_day.lookdev.gltf": {
@@ -1069,7 +1069,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_day.png": {
@@ -1079,7 +1079,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_day.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_night_hills.lookdev.gltf": {
@@ -1089,7 +1089,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_night_hills.png": {
@@ -1099,7 +1099,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_night_hills.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset_hills.lookdev.gltf": {
@@ -1109,7 +1109,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset_hills.png": {
@@ -1119,7 +1119,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset_hills.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset.lookdev.gltf": {
@@ -1129,7 +1129,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/forest/forest_sunset.png": {
@@ -1139,7 +1139,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesforestforest_sunset.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_01.lookdev.gltf": {
@@ -1149,7 +1149,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_01.png": {
@@ -1159,7 +1159,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_02.lookdev.gltf": {
@@ -1169,7 +1169,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_02.png": {
@@ -1179,7 +1179,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_03.lookdev.gltf": {
@@ -1189,7 +1189,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_03.png": {
@@ -1199,7 +1199,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_04.lookdev.gltf": {
@@ -1209,7 +1209,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_midday_04.png": {
@@ -1219,7 +1219,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_01.lookdev.gltf": {
@@ -1229,7 +1229,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_01.png": {
@@ -1239,7 +1239,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_02.lookdev.gltf": {
@@ -1249,7 +1249,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_02.png": {
@@ -1259,7 +1259,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_03.lookdev.gltf": {
@@ -1269,7 +1269,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_03.png": {
@@ -1279,7 +1279,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_04.lookdev.gltf": {
@@ -1289,7 +1289,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_nighttime_04.png": {
@@ -1299,7 +1299,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_nighttime_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_01.lookdev.gltf": {
@@ -1309,7 +1309,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_01.png": {
@@ -1319,7 +1319,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_02.lookdev.gltf": {
@@ -1329,7 +1329,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_02.png": {
@@ -1339,7 +1339,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_03.lookdev.gltf": {
@@ -1349,7 +1349,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_03.png": {
@@ -1359,7 +1359,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_04.lookdev.gltf": {
@@ -1369,7 +1369,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/generic/generic_sunset_04.png": {
@@ -1379,7 +1379,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesgenericgeneric_sunset_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_01.lookdev.gltf": {
@@ -1389,7 +1389,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_01.png": {
@@ -1399,7 +1399,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_02.lookdev.gltf": {
@@ -1409,7 +1409,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_02.png": {
@@ -1419,7 +1419,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_03.lookdev.gltf": {
@@ -1429,7 +1429,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_03.png": {
@@ -1439,7 +1439,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_04.lookdev.gltf": {
@@ -1449,7 +1449,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_midday_04.png": {
@@ -1459,7 +1459,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_midday_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_01.lookdev.gltf": {
@@ -1469,7 +1469,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_01.png": {
@@ -1479,7 +1479,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_01.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_02.lookdev.gltf": {
@@ -1489,7 +1489,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_02.png": {
@@ -1499,7 +1499,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_02.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_03.lookdev.gltf": {
@@ -1509,7 +1509,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_03.png": {
@@ -1519,7 +1519,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_03.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_04.lookdev.gltf": {
@@ -1529,7 +1529,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/mountains/Mountains_sunrise_04.png": {
@@ -1539,7 +1539,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesmountainsMountains_sunrise_04.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_bright.lookdev.gltf": {
@@ -1557,7 +1557,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_bright.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_bright.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_dark.lookdev.gltf": {
@@ -1567,7 +1567,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_dark.png": {
@@ -1577,7 +1577,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_clouds_dark.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_day_overcast.lookdev.gltf": {
@@ -1587,7 +1587,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_day_overcast.png": {
@@ -1597,7 +1597,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_day_overcast.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_midday.lookdev.gltf": {
@@ -1607,7 +1607,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_midday.png": {
@@ -1617,7 +1617,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_midday.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_night.lookdev.gltf": {
@@ -1627,7 +1627,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_night.png": {
@@ -1637,7 +1637,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_night.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunrise_overcaset.lookdev.gltf": {
@@ -1647,7 +1647,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcaset.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcaset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunrise_overcast.png": {
@@ -1657,7 +1657,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcast.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunrise_overcast.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunset.lookdev.gltf": {
@@ -1667,7 +1667,7 @@
       "Skybox"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.lookdev.gltf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.lookdev.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_sunset.png": {
@@ -1677,7 +1677,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.png-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsskyboxesvolcanovolcano_sunset.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/blacckrock-roughness.png": {
@@ -1686,7 +1686,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblacckrock-roughness.pnghash5fa8f9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblacckrock-roughness.pnghash5fa8f9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-albedo.png": {
@@ -1695,7 +1695,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-albedo.pnghash840ec4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-albedo.pnghash840ec4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-ao.png": {
@@ -1704,7 +1704,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-ao.pnghash206ff1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-ao.pnghash206ff1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/blackrock-normal.png": {
@@ -1713,7 +1713,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-normal.pnghasheb4e23-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesblackrock-normal.pnghasheb4e23-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_albedo.png": {
@@ -1722,7 +1722,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_albedo.pnghash079013-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_albedo.pnghash079013-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_ao.png": {
@@ -1731,7 +1731,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_ao.pnghashaf71e3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_ao.pnghashaf71e3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_normal.png": {
@@ -1740,7 +1740,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_normal.pnghashd4fdbd-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_normal.pnghashd4fdbd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/coarse-loose-fabric_roughness.png": {
@@ -1749,7 +1749,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_roughness.pnghash4aed11-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturescoarse-loose-fabric_roughness.pnghash4aed11-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-albedo.png": {
@@ -1758,7 +1758,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-albedo.pnghashccdefd-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-albedo.pnghashccdefd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-ao.png": {
@@ -1767,7 +1767,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-ao.pnghash2da235-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-ao.pnghash2da235-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-normal.png": {
@@ -1776,7 +1776,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-normal.pnghashfae6d9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-normal.pnghashfae6d9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/dry-dirt-roughness.png": {
@@ -1785,7 +1785,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-roughness.pnghash60e810-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesdry-dirt-roughness.pnghash60e810-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-ao.png": {
@@ -1794,7 +1794,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-ao.pnghash015d53-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-ao.pnghash015d53-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-basecolor.png": {
@@ -1803,7 +1803,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-basecolor.pnghash7f6e30-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-basecolor.pnghash7f6e30-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-normal.png": {
@@ -1812,7 +1812,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-normal.pnghash5284db-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-normal.pnghash5284db-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/oak-bark-rough.png": {
@@ -1821,7 +1821,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-rough.pnghashebc7cd-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesoak-bark-rough.pnghashebc7cd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_albedo.png": {
@@ -1830,7 +1830,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_albedo.pnghash80b022-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_albedo.pnghash80b022-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_ao.png": {
@@ -1839,7 +1839,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_ao.pnghash9bc8d1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_ao.pnghash9bc8d1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_normal.png": {
@@ -1848,7 +1848,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_normal.pnghash69e7df-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_normal.pnghash69e7df-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/snowdrift_roughness.png": {
@@ -1857,7 +1857,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_roughness.pnghashe4aacd-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturessnowdrift_roughness.pnghashe4aacd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-albedo.png": {
@@ -1866,7 +1866,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-albedo.pnghash1c1f57-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-albedo.pnghash1c1f57-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-normal.png": {
@@ -1875,7 +1875,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-normal.pnghashe868ef-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-normal.pnghashe868ef-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/streaked-marble-roughness.png": {
@@ -1884,7 +1884,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-roughness.pnghashc0acb4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstexturesstreaked-marble-roughness.pnghashc0acb4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_albedo.png": {
@@ -1893,7 +1893,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_albedo.pnghash7a18d7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_albedo.pnghash7a18d7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_ao.png": {
@@ -1902,7 +1902,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_ao.pnghash5f5887-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_ao.pnghash5f5887-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_normal.png": {
@@ -1911,7 +1911,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_normal.pnghash37aa57-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_normal.pnghash37aa57-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wavy-sand_roughness.png": {
@@ -1920,7 +1920,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_roughness.pnghash659ce1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswavy-sand_roughness.pnghash659ce1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_albedo.png": {
@@ -1929,7 +1929,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_albedo.pnghash24c97d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_albedo.pnghash24c97d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_ao.png": {
@@ -1938,7 +1938,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_ao.pnghash2e8778-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_ao.pnghash2e8778-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_normal.png": {
@@ -1947,7 +1947,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_normal.pnghashc613d4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_normal.pnghashc613d4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wispy-grass-meadow_roughness.png": {
@@ -1956,7 +1956,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_roughness.pnghash4ca910-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswispy-grass-meadow_roughness.pnghash4ca910-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_albedo.png": {
@@ -1965,7 +1965,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_albedo.pnghashf383a7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_albedo.pnghashf383a7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_ao.png": {
@@ -1974,7 +1974,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_ao.pnghash6d7af7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_ao.pnghash6d7af7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_normal.png": {
@@ -1983,7 +1983,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_normal.pnghash4f43f3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_normal.pnghash4f43f3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/textures/wood_roughness.png": {
@@ -1992,7 +1992,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "public/scenes/New-Scene-1.gltf": {
@@ -2001,7 +2001,7 @@
       "Model"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
+    "thumbnailKey": "projects/ir-engine/default-project/public/scenes/default.thumbnail.jpg"
   },
   "public/scenes/New-Scene.gltf": {
     "type": "scene",
@@ -2009,6 +2009,6 @@
       "Model"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
+    "thumbnailKey": "projects/ir-engine/default-project/public/scenes/default.thumbnail.jpg"
   }
 }

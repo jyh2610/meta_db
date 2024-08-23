@@ -19,8 +19,8 @@
         "EE_visible": true,
         "EE_skybox": {
           "backgroundColor": 0,
-          "equirectangularPath": "__$project$__/theinfinitereality/ir-starter-assets/assets/skyboxes/desert/desert_daytime_03.png?hash=064d4a",
-          "cubemapPath": "__$project$__/default-project/assets/skyboxsun25deg/",
+          "equirectangularPath": "__$project$__/ir-engine/ir-starter-assets/assets/skyboxes/desert/desert_daytime_03.png?hash=064d4a",
+          "cubemapPath": "__$project$__/ir-engine/default-project/assets/skyboxsun25deg/",
           "backgroundType": 2,
           "skyboxProps": {
             "turbidity": 10,
