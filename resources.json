@@ -320,6 +320,15 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsblock_folly_2.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/models/concrete_big_diff.jpg": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_concrete_big_diff.jpg-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/cube_folly.glb": {
     "type": "asset",
     "tags": [
@@ -439,6 +448,22 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsDome.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/models/floor_deco.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/floor_deco.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_floor_deco.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/folly_v4.glb": {
     "type": "asset",
     "tags": [
@@ -453,6 +478,70 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsfolly_v4.glb-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/fractal_arch_grooves.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/fractal_arch_grooves.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_grooves.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/fractal_arch_smooth.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/fractal_arch_smooth.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch_smooth.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/fractal_arch.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/fractal_arch.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_arch.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/fractal_pergola_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/fractal_pergola_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_fractal_pergola_01.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Ground_100x100.glb": {
@@ -607,7 +696,7 @@
       "minimal"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small1.glbhash23f476-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_Natural_Store_demo_small1.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Natural_Store_demo_small2.glb": {
@@ -640,88 +729,13 @@
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNatural_Store_demo_small3.glb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
-  "assets/models/NMS_HubsLM_Template_large.glb": {
-    "type": "asset",
-    "tags": [
-      "Model",
-      "starter assets",
-      "stage",
-      "template",
-      "ecommerce",
-      "facade",
-      "minimal"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_HubsLM_Template_large.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
-  },
-  "assets/models/NMS_Lightmapped_large.glb": {
-    "type": "asset",
-    "tags": [
-      "Model",
-      "starter assets",
-      "stage",
-      "template",
-      "ecommerce",
-      "facade",
-      "minimal"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Lightmapped_large.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
-  },
-  "assets/models/NMS_Template_large.glb": {
-    "type": "asset",
-    "tags": [
-      "Model",
-      "starter assets",
-      "stage",
-      "template",
-      "ecommerce",
-      "facade",
-      "minimal"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_large.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
-  },
-  "assets/models/NMS_Template_medium.glb": {
-    "type": "asset",
-    "tags": [
-      "Model",
-      "starter assets",
-      "stage",
-      "template",
-      "ecommerce",
-      "facade",
-      "minimal"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_medium.glb-thumbnail.png",
-    "thumbnailMode": "automatic"
-  },
-  "assets/models/NMS_Template_small.glb": {
-    "type": "asset",
-    "tags": [
-      "Model",
-      "starter assets",
-      "stage",
-      "template",
-      "ecommerce",
-      "facade",
-      "minimal"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelsNMS_Template_small.glbhash09029a-thumbnail.png",
-    "thumbnailMode": "automatic"
-  },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
     "type": "asset",
     "tags": [
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Base_color.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
@@ -730,7 +744,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
@@ -739,7 +753,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_models_textures_Wood_Furniture_modular_Normal_OpenGL.png-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/skyboxes/arctic/Arctic_aurora_01.lookdev.gltf": {
@@ -1548,7 +1562,9 @@
       "Lookdev",
       "Skybox"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/assets_skyboxes_volcano_volcano_clouds_bright.lookdev.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
   },
   "assets/skyboxes/volcano/volcano_clouds_bright.png": {
     "type": "asset",
@@ -1994,21 +2010,5 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-starter-assets/public/thumbnails/ir-starter-assetsassetstextureswood_roughness.pnghashf59614-thumbnail.png",
     "thumbnailMode": "automatic"
-  },
-  "public/scenes/New-Scene-1.gltf": {
-    "type": "scene",
-    "tags": [
-      "Model"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/default-project/public/scenes/default.thumbnail.jpg"
-  },
-  "public/scenes/New-Scene.gltf": {
-    "type": "scene",
-    "tags": [
-      "Model"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/ir-engine/default-project/public/scenes/default.thumbnail.jpg"
   }
 }
